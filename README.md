@@ -39,11 +39,12 @@ Note:
 ---
   
 **Disclaimer:**
+
 This project is mainly based on the Journal Impact Factors (JIF) while considering the newly added Journal Impact Indicators (JCI). Both metrics *only measure the impact of research by citation*. The project is hence limited at multiple levels: 
 
 1. The JIF and the JCI won’t capture the full picture and the full life-cycle of citations.
 2. Only journals are captured, while other forms of research outputs are precluded.
-3. Some indexes (AHCI and ESCI) don’t have Impact Factors and some areas barely use them.
+3. Some indexes (AHCI and ESCI) don’t have Impact Factors and some disciplines barely use IFs.
 4. Research impact should be measured by multiple metrics, not only by citations.
 5. Above all, not all research impact is measurable and quantifiable.
 
@@ -57,4 +58,7 @@ This project is mainly based on the Journal Impact Factors (JIF) while consideri
   
 ---
   
-*The last thing that I may add later: JCR (Journal Citation Reports) vs. SJR (SCImago Journal Rank). There are several reasons that I chose the former over the latter—that’s another topic for another day.*
+*The last thing is the debate of the JCR (Journal Citation Reports) vs. the SJR (SCImago Journal Rank). There are several reasons that I choose the former over the latter—that’s another topic for another day.*
+  
+---
+  
