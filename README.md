@@ -22,7 +22,7 @@ This project includes:
 
 \*The first two lists are my own selection and compilation after processing the raw data from the JCR.
 
-\**The next two lists required additional data processing to compile, although the info is available in some form in different parts of the JCR system (e.g. under individual journal profiles).
+\**The next two lists require additional data processing to compile, although the info is available in some form in different parts of the JCR system (e.g. under individual journal profiles).
 
 \***The last three should be directly accessible if your institution has subscribed to the JCR. If your institution only has a subscription to the Web of Science but not the JCR, you’ll need to check each journal individually.
   
