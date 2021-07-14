@@ -12,7 +12,7 @@ I publish my criteria here, but the list is *not* for public release as it is ba
 ---
   
 This project includes:
-- Key SSCI Journals (selected each year based on the criteria below)\*
+- Key SSCI/AHCI Journals (selected each year based on the criteria below)\*
 - Ranking of AHCI/SSCI double-indexed journals (by Impact Factors and by Categories)\*
 - Journal Ranking by SSCI quartiles (not category quartile)\**
 - Full List of SSCI Journals (with Impact Factors, SSCI quartile, and category quartile)\**
