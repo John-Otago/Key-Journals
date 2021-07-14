@@ -3,7 +3,7 @@
 A J.W. Project  
 Last Update: 14 July 2021 (for July 2021 – June 2022)  
 
-This is a collection of the most high-impact journals in HASS (Humanities & Social Sciences).
+This is a collection of the most important and high-impact journals in HASS (Humanities & Social Sciences).
 
 Each year, I process the data from the latest Journal Citation Reports (JCR) to select and compile a list of journals with the highest impact in the Social Sciences Citation Index (SSCI) and the Arts and Humanities Citation Index (AHCI).
 
