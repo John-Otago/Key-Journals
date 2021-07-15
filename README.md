@@ -13,6 +13,7 @@ I publish my criteria here, but the list is *not* for public release as it is ba
   
 This project includes:
 - Key SSCI/AHCI Journals (selected each year based on certain criteria--see the annual list below)\*
+- Top SSCI/AHCI Journals (same here)\*
 - Ranking of AHCI/SSCI double-indexed journals (by Impact Factors and by Categories)\*
 - Journal Ranking by SSCI quartiles (not category quartile)\**
 - Full List of SSCI Journals (with Impact Factors, SSCI quartile, and category quartile)\**
@@ -20,7 +21,7 @@ This project includes:
 - SSCI Journal Ranking by Categories\***
 - Raw Data (SCIE, SSCI, AHCI, ESCI)\***
 
-\*The first two lists are my own selection and compilation after processing the raw data from the JCR.
+\*The first three lists are my own selection and compilation after processing the raw data from the JCR.
 
 \**The next two lists require additional data processing to compile, although the info is available in some form in different parts of the JCR system (e.g. under individual journal profiles).
 
@@ -62,7 +63,8 @@ This project is mainly based on the Journal Impact Factors (JIF) while consideri
   
 ---
   
-**2021-2022:** https://github.com/John-Otago/Key-Journals/blob/main/2021-2022.md
+**Key SSCI/AHCI Journals, 2021-2022:** https://github.com/John-Otago/Key-Journals-in-HASS/blob/main/2021-2022/Key%20Journals%202021-2022.md 
+**Top SSCI/AHCI Journals, 2021-2022:** https://github.com/John-Otago/Key-Journals-in-HASS/blob/main/2021-2022/Top%20Journals%202021-2022.md
   
 ---
   
