@@ -63,8 +63,8 @@ This project is mainly based on the Journal Impact Factors (JIF) while consideri
   
 ---
   
-**Key SSCI/AHCI Journals, 2021-2022:** https://github.com/John-Otago/Key-Journals-in-HASS/blob/main/2021-2022/Key%20Journals%202021-2022.md  
-**Top SSCI/AHCI Journals, 2021-2022:** https://github.com/John-Otago/Key-Journals-in-HASS/blob/main/2021-2022/Top%20Journals%202021-2022.md  
+**[Key SSCI/AHCI Journals, 2021-2022](https://github.com/John-Otago/Key-Journals-in-HASS/blob/main/2021-2022/Key%20Journals%202021-2022.md)**  
+**[Top SSCI/AHCI Journals, 2021-2022](https://github.com/John-Otago/Key-Journals-in-HASS/blob/main/2021-2022/Top%20Journals%202021-2022.md)**  
   
 ---
   
