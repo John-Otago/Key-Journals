@@ -7,7 +7,7 @@ Data source: JCR 2021 (released 30 June 2021)
 ---
   
 Number of journals in the list: 1664  
-% of total SSCI journals: 40.76%  
+Percentage of total SSCI journals: 40.76%  
 
 ---
   
