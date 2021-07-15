@@ -1,7 +1,7 @@
 # Key Journals in HASS
 
 A J.W. Project  
-Last Update: 14 July 2021 (for July 2021 – June 2022)  
+Last Update: 15 July 2021 (for July 2021 – June 2022)  
 
 This is a collection of the most important and high-impact journals in HASS (Humanities & Social Sciences).
 
