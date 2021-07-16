@@ -1,6 +1,6 @@
 ## Top Journals in HASS, 2021-2022
 
-Last update: 15 July 2021  
+Last update: 17 July 2021  
 Compiled by J.W.  
 Data source: JCR 2021 (released 30 June 2021)
   
@@ -17,7 +17,7 @@ Journals ranked in both **SSCI Q1** (top 25% of the whole Social Science Citatio
   
 ---
   
-**Minimum Impact Factor (2-year) in the Key Journals (HASS) list:  
+**Minimum Impact Factor (2-year) in the Top Journals (HASS) list:  
 3.277**
 
 Individual journal's Impact Factor (2-year) can be checked on the Web of Science (WoS) Core Collection (select 'Publication Titles'): https://www.webofscience.com/wos/woscc/basic-search
