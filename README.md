@@ -1,4 +1,4 @@
-# Key Journals in HASS
+# Selected Journals in HASS
 
 A J.W. Project  
 Last Update: 15 July 2021 (for July 2021 – June 2022)  
