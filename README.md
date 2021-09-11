@@ -1,13 +1,13 @@
 # Selected Journals in HASS
 
 A J.W. Project  
-Last Update: 15 July 2021 (for July 2021 – June 2022)  
+Last Update: 15 July 2021 (for July 2021 – June 2022)   
 
-This is a collection of the most important and high-impact journals in HASS (Humanities & Social Sciences).
+This is a collection of high-impact journals in HASS (Humanities & Social Sciences).
 
 Each year, I process the data from the latest Journal Citation Reports (JCR) to select and compile a list of journals with the highest impact in the Social Sciences Citation Index (SSCI) and the Arts and Humanities Citation Index (AHCI).
 
-I publish my criteria here, but the list is *not* for public release as it is based on proprietary data. My students and colleagues can contact me for a copy (not to be shared publicly).
+I publish my criteria here, but the list is *not* for public release as it is based on proprietary data. Colleagues and students can contact me for a copy (not to be shared publicly).
   
 ---
   
@@ -41,7 +41,7 @@ Note:
   
 **Disclaimer:**
 
-This project is mainly based on the Journal Impact Factors (JIF) while considering the newly added Journal Impact Indicators (JCI). Both metrics *only measure the impact of research by citation*. The project is hence limited at multiple levels: 
+This project is mainly based on the Journal Impact Factors (JIF) while considering the newly added Journal Impact Indicators (JCI). Both metrics *only measure the impact of research by citation within a certain timeframe*. The project is hence limited at multiple levels: 
 
 1. The JIF and the JCI won’t capture the full picture and the full life-cycle of citations.
 2. Only journals are captured, while other forms of research outputs are precluded.
@@ -54,7 +54,7 @@ This project is mainly based on the Journal Impact Factors (JIF) while consideri
 1. They help students and early-career researchers avoid predatory journals and publishers.
 2. They help students and scholars choose suitable outlets for their work.
 3. Though not perfect or complete, citation metrics are central to many academic activities, especially when it comes to evaluation and quality assurance across individual, institutional, and national and international levels.
-4. At the end of the day, we need something measurable as part of the quality criteria for anything from tenure review and promotion to global university rankings.
+4. At the end of the day, we need something measurable as part of the quality criteria for anything from tenure review and promotion to global university rankings. As the saying goes, if we can't measure what counts, we count what can be measured.
 5. Last, if you have a good article, why not publish it in a higher-ranked journal with a larger readership and more visibility, impact, and reputation?
   
 ---
