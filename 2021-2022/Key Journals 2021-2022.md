@@ -35,7 +35,7 @@ This metric is currently optional in my Key Journals list, as it is newly releas
   
 ---
   
-Again, I publish my criteria here, but the list is not for public release as it is based on proprietary data. My students and colleagues can contact me for a copy (not to be shared publicly).
+Again, I publish my criteria here, but the list is not for public release as it is based on proprietary data. Colleagues and students can contact me for a copy (not to be shared publicly).
   
 ---
   
