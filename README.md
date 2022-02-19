@@ -57,6 +57,9 @@ This project is mainly based on the Journal Impact Factors (JIF) while consideri
 4. At the end of the day, we need something measurable as part of the quality criteria for anything from tenure review and promotion to global university rankings. As the saying goes, if we can't measure what counts, we count what can be measured.
 5. Last, if you have a good article, why not publish it in a higher-ranked journal with a larger readership and more visibility, impact, and reputation?
   
+A collection of relevant discussions can be found here: https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication  
+  
+  
 ---
   
 *The last thing is the debate of the JCR (Journal Citation Reports) vs. the SJR (SCImago Journal Rank). There are several reasons that I choose the former over the latter—that’s another topic for another day.*
