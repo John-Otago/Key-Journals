@@ -1,7 +1,9 @@
 # Selected Journals in HASS
 
 A J.W. Project  
-Version: 15 July 2021 (for July 2021 – June 2022)  
+Last update: 17 Aug 2022
+
+*Note: I no longer publish this project online. This repository may be archived later.*
 
 This is a collection of high-impact journals in HASS (Humanities & Social Sciences).
 
