@@ -4,7 +4,9 @@ A J.W. Project
 Last update: 17 Aug 2022
 
 *Note: I no longer publish this project online. This repository may be archived later.*
-
+  
+---
+  
 This is a collection of high-impact journals in HASS (Humanities & Social Sciences).
 
 Each year, I process the data from the latest Journal Citation Reports (JCR) to select and compile a list of journals with the highest impact in the Social Sciences Citation Index (SSCI) and the Arts and Humanities Citation Index (AHCI).
